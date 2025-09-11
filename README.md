@@ -1,2 +1,2 @@
-# Lab-
+# WEB-DEVELOPMENT
 Lab 1
