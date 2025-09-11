@@ -1,2 +1,2 @@
-# Lab-1--My-short-bio
+# Lab-
 Lab 1
